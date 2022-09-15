@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<query>
+
+    <fields>
+
+      <field>name</field>
+
+      <field>population</field>
+
+    </fields>
+
+    <fields>
+
+      <field>name</field>
+
+      <field>population</field>
+
+    </fields>
+
+</query>
